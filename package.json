@@ -1,0 +1,12 @@
+{
+  "name": "fs_path_and_readline_module",
+  "version": "1.0.0",
+  "description": "fs_path_and_readline_module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Yugal\"",
+  "license": "ISC"
+}
